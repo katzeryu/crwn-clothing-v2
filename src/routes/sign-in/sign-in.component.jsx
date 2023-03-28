@@ -5,7 +5,6 @@ import {
 //   auth,
   signInWithGooglePopup,
   createUserDocumentFromAuth,
-  signInWithGoogleRedirect,
 } from "../../utils/firebase/firebase.utils";
 
 
